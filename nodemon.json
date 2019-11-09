@@ -1,0 +1,7 @@
+{
+    "env" : {
+        "MONGO_ATLAS_PW": "123mypass",
+        "JWT_KEY" : "123mysecret",
+        "SENDGRID_API_KEY": "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"
+    }
+}
